@@ -5,10 +5,10 @@
     color: red;
 }
 #second-div>p:nth-child(odd){
-    background-color: blue;
+   color: blue;
 }
 #second-div>p:nth-child(even){
-    background-color:red;
+  color:red;
 }
 #first-div>p::after{
     content: "NEW";
